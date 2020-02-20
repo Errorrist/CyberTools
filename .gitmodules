@@ -49,3 +49,6 @@
 [submodule "GeneralTools/algo"]
 	path = GeneralTools/algo
 	url = https://github.com/trailofbits/algo.git
+[submodule "GeneralTools/PayloadsAllTheThings"]
+	path = GeneralTools/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
