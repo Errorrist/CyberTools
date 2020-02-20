@@ -1,0 +1,54 @@
+[submodule "NetworkAnalysis/legion"]
+	path = NetworkAnalysis/legion
+	url = https://github.com/GoVanguard/legion.git
+[submodule "PasswordHashingCrypto/CyberChef"]
+	path = PasswordHashingCrypto/CyberChef
+	url = https://github.com/gchq/CyberChef.git
+[submodule "PasswordHashingCrypto/impacket"]
+	path = PasswordHashingCrypto/impacket
+	url = https://github.com/SecureAuthCorp/impacket.git
+[submodule "PasswordHashingCrypto/JohnTheRipper"]
+	path = PasswordHashingCrypto/JohnTheRipper
+	url = https://github.com/magnumripper/JohnTheRipper.git
+[submodule "PasswordHashingCrypto/RsaCtfTool"]
+	path = PasswordHashingCrypto/RsaCtfTool
+	url = https://github.com/Ganapati/RsaCtfTool.git
+[submodule "PasswordHashingCrypto/RSHack"]
+	path = PasswordHashingCrypto/RSHack
+	url = https://github.com/zweisamkeit/RSHack.git
+[submodule "PasswordHashingCrypto/password_cracking_rules"]
+	path = PasswordHashingCrypto/password_cracking_rules
+	url = https://github.com/NotSoSecure/password_cracking_rules.git
+[submodule "Stego/stego-toolkit"]
+	path = Stego/stego-toolkit
+	url = https://github.com/DominicBreuker/stego-toolkit.git
+[submodule "ReverseEngineering/ghidra"]
+	path = ReverseEngineering/ghidra
+	url = https://github.com/NationalSecurityAgency/ghidra.git
+[submodule "ReverseEngineering/pyrasite"]
+	path = ReverseEngineering/pyrasite
+	url = https://github.com/lmacken/pyrasite.git
+[submodule "WebApplication/w3af"]
+	path = WebApplication/w3af
+	url = https://github.com/andresriancho/w3af.git
+[submodule "GeneralTools/PayloadsAllTheThings"]
+	path = GeneralTools/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+[submodule "GeneralTools/awesome-ctf"]
+	path = GeneralTools/awesome-ctf
+	url = https://github.com/apsdehal/awesome-ctf.git
+[submodule "KaliTools/ohmyzsh"]
+	path = KaliTools/ohmyzsh
+	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "KaliTools/oh-my-fish"]
+	path = KaliTools/oh-my-fish
+	url = https://github.com/oh-my-fish/oh-my-fish.git
+[submodule "WindowsTools/commando-vm"]
+	path = WindowsTools/commando-vm
+	url = https://github.com/fireeye/commando-vm.git
+[submodule "WindowsTools/DeepBlueCLI"]
+	path = WindowsTools/DeepBlueCLI
+	url = https://github.com/sans-blue-team/DeepBlueCLI.git
+[submodule "GeneralTools/algo"]
+	path = GeneralTools/algo
+	url = https://github.com/trailofbits/algo.git
