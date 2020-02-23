@@ -31,6 +31,7 @@
 + ### WindowsTools
   + #### **Commando-vm** `git submodule add https://github.com/fireeye/commando-vm.git`
   + #### **DeepBlueCLI** `git submodule add https://github.com/sans-blue-team/DeepBlueCLI.github`
+  + #### **Windows10Debloater** `git submodule add https://github.com/Sycnex/Windows10Debloater.git`
 ---
 ### PDFS: ###  
 + `CLDojo.pdf`
