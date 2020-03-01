@@ -52,3 +52,9 @@
 [submodule "GeneralTools/PayloadsAllTheThings"]
 	path = GeneralTools/PayloadsAllTheThings
 	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+[submodule "KaliTools/dirsearch"]
+	path = KaliTools/dirsearch
+	url = https://github.com/maurosoria/dirsearch.git
+[submodule "WindowsTools/Windows10Debloater"]
+        path = WindowsTools/Windows10Debloater
+        url = https://github.com/Sycnex/Windows10Debloater.git
