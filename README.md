@@ -28,6 +28,7 @@
 + ### KaliTools
   + #### **Ohmyzsh** `git submodule add https://github.com/ohmyzsh/ohmyzsh.git`
   + #### **Ohmyfish** `git submodule add https://github.com/oh-my-fish/oh-my-fish.git`
+  + #### **Dirsearch** `git submodule add https://github.com/maurosoria/dirsearch.git
 + ### WindowsTools
   + #### **Commando-vm** `git submodule add https://github.com/fireeye/commando-vm.git`
   + #### **DeepBlueCLI** `git submodule add https://github.com/sans-blue-team/DeepBlueCLI.github`
@@ -37,7 +38,6 @@
 + `CLDojo.pdf`
 + `Coders_Conquer_Security__Your_Battle_Plan_to_Defeat_the_OWASP_Top_10.pdf`
 + `Deceive_to_Achieve__The_Key_to_Deception-Based_Alerts.pdf`
-+ `Devel.pdf`
 + `EMAC CheatSheet.pdf`
 + `HashcatCheatSheet.pdf`
 + `How To Use hashcat On CPU Only – scottlinux.com _ Linux Blog.pdf`
@@ -47,7 +47,6 @@
 + `How to use a Raspberry Pi as a network sensor.pdf`
 + `Kali tools catalog - Password Attacks - Core dump overflow.pdf`
 + `Know_Your_Role__Mastering_Privileged_Access_Management.pdf`
-+ `Lame.pdf`
 + `Linux Password Cracking_ Explain unshadow and john Commands ( John the Ripper Tool ) - nixCraft.pdf`
 + `Raspberry Pi network sensor shopping list.pdf`
 + `RedFlags_forLowRiskBusinesses.pdf`
