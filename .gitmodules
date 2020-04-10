@@ -58,3 +58,6 @@
 [submodule "WindowsTools/Windows10Debloater"]
         path = WindowsTools/Windows10Debloater
         url = https://github.com/Sycnex/Windows10Debloater.git
+[submodule "WebApplication/Nosql-MongoDB-injection-username-password-enumeration"]
+	path = WebApplication/Nosql-MongoDB-injection-username-password-enumeration
+	url = https://github.com/an0nlk/Nosql-MongoDB-injection-username-password-enumeration.git
