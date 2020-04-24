@@ -21,8 +21,7 @@
   + #### **Pyrasite** `git submodule add https://github.com/lmacken/pyrasite.git`
 + ### WebApplicationAttack
   + #### **W3af** `git submodule add https://github.com/andresriancho/w3af.git`
-  + #### **Nosql-MongoDB-injection-username-password-enumeration** `git submodule add 
-https://github.com/an0nlk/Nosql-MongoDB-injection-username-password-enumeration.git`
+  + #### **Nosql-MongoDB-injection-username-password-enumeration** `git submodule add https://github.com/an0nlk/Nosql-MongoDB-injection-username-password-enumeration.git`
 + ### GeneralTools
   + #### **PayloadsAllTheThings** `git submodule add https://github.com/swisskyrepo/PayloadsAllTheThings.git`
   + #### **Awesome-ctf** `git submodule add https://github.com/apsdehal/awesome-ctf.git`
@@ -30,13 +29,13 @@ https://github.com/an0nlk/Nosql-MongoDB-injection-username-password-enumeration.
 + ### KaliTools
   + #### **Ohmyzsh** `git submodule add https://github.com/ohmyzsh/ohmyzsh.git`
   + #### **Ohmyfish** `git submodule add https://github.com/oh-my-fish/oh-my-fish.git`
-  + #### **Dirsearch** `git submodule add https://github.com/maurosoria/dirsearch.git
+  + #### **Dirsearch** `git submodule add https://github.com/maurosoria/dirsearch.git`
 + ### WindowsTools
   + #### **Commando-vm** `git submodule add https://github.com/fireeye/commando-vm.git`
   + #### **DeepBlueCLI** `git submodule add https://github.com/sans-blue-team/DeepBlueCLI.github`
   + #### **Windows10Debloater** `git submodule add https://github.com/Sycnex/Windows10Debloater.git`
-  + #### **Nishang** 'git submodule add https://github.com/samratashok/nishang.git'
-  + #### **PowerSploit** 'git submodule add https://github.com/PowerShellMafia/PowerSploit.git'
+  + #### **Nishang** `git submodule add https://github.com/samratashok/nishang.git`
+  + #### **PowerSploit** `git submodule add https://github.com/PowerShellMafia/PowerSploit.git`
 ---
 ### PDFS: ###  
 + `CLDojo.pdf`
