@@ -35,6 +35,8 @@ https://github.com/an0nlk/Nosql-MongoDB-injection-username-password-enumeration.
   + #### **Commando-vm** `git submodule add https://github.com/fireeye/commando-vm.git`
   + #### **DeepBlueCLI** `git submodule add https://github.com/sans-blue-team/DeepBlueCLI.github`
   + #### **Windows10Debloater** `git submodule add https://github.com/Sycnex/Windows10Debloater.git`
+  + #### **Nishang** 'git submodule add https://github.com/samratashok/nishang.git'
+  + #### **PowerSploit** 'git submodule add https://github.com/PowerShellMafia/PowerSploit.git'
 ---
 ### PDFS: ###  
 + `CLDojo.pdf`

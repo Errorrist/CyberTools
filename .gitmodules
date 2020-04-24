@@ -61,3 +61,9 @@
 [submodule "WebApplication/Nosql-MongoDB-injection-username-password-enumeration"]
 	path = WebApplication/Nosql-MongoDB-injection-username-password-enumeration
 	url = https://github.com/an0nlk/Nosql-MongoDB-injection-username-password-enumeration.git
+[submodule "WindowsTools/nishang"]
+	path = WindowsTools/nishang
+	url = https://github.com/samratashok/nishang.git
+[submodule "WindowsTools/PowerSploit"]
+	path = WindowsTools/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
