@@ -67,6 +67,3 @@
 [submodule "WindowsTools/PowerSploit"]
 	path = WindowsTools/PowerSploit
 	url = https://github.com/PowerShellMafia/PowerSploit.git
-[submodule "pwnbox"]
-	path = pwnbox
-	url = https://github.com/theGuildHall/pwnbox.git
