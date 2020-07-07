@@ -18,7 +18,8 @@ WebApplicationAttack
 add 
 https://github.com/an0nlk/Nosql-MongoDB-injection-username-password-enumeration.git
 GeneralTools
-	PayloadsAllTheThings - git submodule add https://github.com/swisskyrepo/PayloadsAllTheThings.git
+	PwnBox - git submodule add https://github.com/theGuildHall/pwnbox.git
+        PayloadsAllTheThings - git submodule add https://github.com/swisskyrepo/PayloadsAllTheThings.git
 	awesome-ctf - git submodule add https://github.com/apsdehal/awesome-ctf.git
 	algo - git submodule add https://github.com/trailofbits/algo.git
 KaliTools
