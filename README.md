@@ -37,9 +37,9 @@
   + #### **Windows10Debloater** `git submodule add https://github.com/Sycnex/Windows10Debloater.git`
   + #### **Nishang** `git submodule add https://github.com/samratashok/nishang.git`
   + #### **PowerSploit** `git submodule add https://github.com/PowerShellMafia/PowerSploit.git`
----
-### Shells and Tunnels: ###
-+ #### **Chisel** `git submodule add https://github.com/jpillora/chisel.git`
+
++ ### Shells and Tunnels
+  + #### **Chisel** `git submodule add https://github.com/jpillora/chisel.git`
 ---
 ### PDFS: ###  
 + `CLDojo.pdf`
