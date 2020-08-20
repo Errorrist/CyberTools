@@ -38,6 +38,9 @@
   + #### **Nishang** `git submodule add https://github.com/samratashok/nishang.git`
   + #### **PowerSploit** `git submodule add https://github.com/PowerShellMafia/PowerSploit.git`
 ---
+### Shells and Tunnels: ###
++ #### **Chisel** `git submodule add https://github.com/jpillora/chisel.git`
+---
 ### PDFS: ###  
 + `CLDojo.pdf`
 + `Coders_Conquer_Security__Your_Battle_Plan_to_Defeat_the_OWASP_Top_10.pdf`

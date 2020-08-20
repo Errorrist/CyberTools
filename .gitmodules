@@ -70,3 +70,12 @@
 [submodule "GeneralTools/pwnbox"]
 	path = GeneralTools/pwnbox
 	url = https://github.com/theGuildHall/pwnbox.git
+[submodule "Vieux"]
+	path = Vieux
+	url = https://github.com/MatthewPierson/Vieux.git
+[submodule "chisel"]
+	path = chisel
+	url = https://github.com/jpillora/chisel.git
+[submodule "Shells and Tunnels/chisel"]
+	path = Shells and Tunnels/chisel
+	url = https://github.com/jpillora/chisel.git
